@@ -1,6 +1,6 @@
 <!---- 👋 Hi, I’m @HemantSrivastavaa
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning C language and Web Development (MERN Stack)
+- 🌱 I’m currently learning C language and Web Development (MERN)
 - 📫 Instagram - idekhemant
 - 😄 He/Him
 ---!>
